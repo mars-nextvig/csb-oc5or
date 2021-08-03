@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-mars-test-01"]=this["webpackJsonpreact-mars-test-01"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var s=c(1),n=c(3),r=c.n(n),i=(c(8),c(0)),a=function(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("h1",{children:"Hello CodeSandbox"}),Object(i.jsx)("h2",{children:"Start editing to see some magic happen!"})]})},o=document.getElementById("root");r.a.render(Object(i.jsx)(s.StrictMode,{children:Object(i.jsx)(a,{})}),o)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.f57fac14.chunk.js.map
